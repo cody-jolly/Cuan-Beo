@@ -1,1 +1,2 @@
-Diese Repository beinhält die aktuelle Versionen die Arbeitsdateien für eine künftige Website des Cuan Beo Projekts in Cloughjordan, Irland. Es wird hier für kollaborative, sowie informative Zwecke veröffentlicht. 
+# Cuan Beo Read Me 
+Diese Repository beinhält die aktuelle Versionen die Arbeitsdateien für eine künftige Website des Cuan Beo Projekts in Cloughjordan, Irland. Es wird hier für kollaborative, sowie informative Zwecke veröffentlicht.
